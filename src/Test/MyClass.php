@@ -17,7 +17,7 @@
  */
 declare(strict_types=1);
 
-namespace Soledis\Sldskeletonbase\Core;
+namespace Soledis\SldskeletonCore\Test;
 
 class MyClass
 {

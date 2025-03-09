@@ -1,11 +1,11 @@
 {
-    "name": "soledis/sldskeletonbase",
+    "name": "soledis/sldskeletoncore",
     "description": "Skeleton base",
     "type": "library",
     "license": "proprietary",
     "autoload": {
         "psr-4": {
-            "Soledis\\Sldskeletonbase\\": "src/"
+            "Soledis\\SldSkeletonCore\\": "src/"
         }
     },
     "authors": [
